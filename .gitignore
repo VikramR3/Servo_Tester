@@ -1,0 +1,11 @@
+# KiCad local / generated files
+*-backups/
+fp-info-cache
+*.kicad_prl
+*.lck
+*.bak
+*~
+_autosave-*
+*.kicad_sch-bak
+*.kicad_pcb-bak
+DRC.rpt
